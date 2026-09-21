@@ -1,0 +1,15 @@
+=================================================================
+OYNATICI: BYS / Byse (bys)
+Toplam Silinen Link Sayısı: 4
+Temel Silinme Sebebi: Kapanmış Servis / Boş Kayıt
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Dead BYS link: HTTP 404 Not Found: 3 adet
+  - HTTP 404 Video Bulunamadı / Silinmiş: 1 adet
+
+Örnek Silinen Linkler:
+  * https://bysesukior.com/e/uzf9i0a94gl7
+  * https://bysesukior.com/e/kn8oo4yw6tu8
+  * https://bysesukior.com/e/kybkg0jxkzei
+  * https://bysesukior.com/e/utjsvnwaig2t

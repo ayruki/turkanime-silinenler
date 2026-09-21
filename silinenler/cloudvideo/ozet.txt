@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: CloudVideo (cloudvideo)
+Toplam Silinen Link Sayısı: 8,469
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Dummy 301 Redirect to media.cm (Dead host): 8,469 adet
+
+En Çok Etkilenen Fansublar:
+  - AnimeWho: 768 link
+  - Tempest: 560 link
+  - Pijamalı Koi: 493 link
+  - HolySubs: 449 link
+  - Akatsuki: 343 link
+
+Örnek Silinen Linkler:
+  * https://www.cloudvideo.tv/embed-qqkazkhv47f0.html
+  * https://www.cloudvideo.tv/embed-29wmu7hxlqba.html
+  * https://www.cloudvideo.tv/embed-zq4qmuw6j82g.html
+  * https://www.cloudvideo.tv/embed-cdwf2dzp6l8u.html
+  * https://www.cloudvideo.tv/embed-6597ya1gtgpc.html

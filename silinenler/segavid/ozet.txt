@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Segavid (segavid)
+Toplam Silinen Link Sayısı: 2,188
+Temel Silinme Sebebi: ParkLogic Zararlı Reklam Rotatörü
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain hijacked / ParkLogic malware redirect: 2,188 adet
+
+En Çok Etkilenen Fansublar:
+  - NetRip: 404 link
+  - AnimeWho: 271 link
+  - Varsayılan-BD: 240 link
+  - Varsayılan: 170 link
+  - ShikiSubs: 143 link
+
+Örnek Silinen Linkler:
+  * https://segavid.com/embed-4oqzpxeqjcx2.html
+  * https://segavid.com/embed-h4b6empx67kq.html
+  * https://segavid.com/embed-jjicrbrb7wg3.html
+  * https://segavid.com/embed-auimmgpaefjn.html
+  * https://segavid.com/embed-vcv0oj8f16zu.html

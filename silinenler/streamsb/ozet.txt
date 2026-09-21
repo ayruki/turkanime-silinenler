@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: StreamSB (streamsb)
+Toplam Silinen Link Sayısı: 24,609
+Temel Silinme Sebebi: ParkLogic Zararlı Reklam Rotatörü / Kapanmış
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain hijacked / ParkLogic malware redirect: 24,609 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 2,269 link
+  - TAÇE: 1,755 link
+  - AnimeWho: 1,735 link
+  - PuzzleSubs: 1,411 link
+  - Tempest: 864 link
+
+Örnek Silinen Linkler:
+  * https://sbfast.com/embed-ac9jdvvgtn8i.html
+  * https://sbfast.com/embed-wz6tcgvxlt49.html
+  * https://sbfast.com/embed-1p5dt66v1nfo.html
+  * https://sbfast.com/embed-zx9f0arpl19g.html
+  * https://sbfast.com/embed-sf9xfuup7gy2.html

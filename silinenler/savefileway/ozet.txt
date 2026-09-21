@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: SaveFileWay (savefileway)
+Toplam Silinen Link Sayısı: 17,496
+Temel Silinme Sebebi: Domain Süresi Dolmuş / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Cloudflare 523 / Origin server unreachable: 17,496 adet
+
+En Çok Etkilenen Fansublar:
+  - PuzzleSubs: 1,645 link
+  - Varsayılan: 1,473 link
+  - AnimeWho: 1,088 link
+  - AniSekai: 696 link
+  - Akatsuki: 668 link
+
+Örnek Silinen Linkler:
+  * https://savefileway.com/video/embed/zk0/660x425/3c93d07630fc0583647067511f881c5c-480p_By_Oto_Uploader.mp4
+  * https://savefileway.com/video/embed/zk2/660x425/381d5d98010dc91d4d31413213f87f94-1080p_By_Oto_Uploader.mp4
+  * https://savefileway.com/video/embed/zk1/660x425/4rc4d14-F4n2u8_100-m4n_n0_1n0ch1_n0_U3_n1_0r3_w4_T4tt3_1ru_-_04_By_Oto_Uploader.mp4
+  * https://savefileway.com/video/embed/ysP/660x425/d038516d4cc122dfd1841cfc6c869237-1080p_By_Oto_Uploader.mp4
+  * https://savefileway.com/video/embed/ysQ/660x425/5c8c4c582454009257543181188358c2-1080p_By_Oto_Uploader.mp4

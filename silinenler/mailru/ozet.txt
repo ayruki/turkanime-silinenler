@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Mail.ru (mailru)
+Toplam Silinen Link Sayısı: 16,691
+Temel Silinme Sebebi: Video Silinmiş / Telif İhlali
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404 Not Found: 16,691 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 2,463 link
+  - TAÇE: 1,168 link
+  - AnimeOU: 917 link
+  - PuzzleSubs: 789 link
+  - AnimeWho: 582 link
+
+Örnek Silinen Linkler:
+  * https://my.mail.ru/video/embed/7432059985078518110
+  * https://my.mail.ru/video/embed/7432059985078518186
+  * https://my.mail.ru/video/embed/7432059985078518192
+  * https://my.mail.ru/video/embed/7432059985078518180
+  * https://my.mail.ru/video/embed/7432059985078518114

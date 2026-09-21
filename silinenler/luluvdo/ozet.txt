@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Luluvdo (luluvdo)
+Toplam Silinen Link Sayısı: 6,440
+Temel Silinme Sebebi: BTK Mahkeme Kararıyla Engelli / Kapanmış
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - BTK court order blocked in Turkey: 6,440 adet
+
+En Çok Etkilenen Fansublar:
+  - HolySubs: 1,119 link
+  - NetRip: 968 link
+  - ShikiSubs: 681 link
+  - Seicode: 375 link
+  - Varsayılan-BD: 353 link
+
+Örnek Silinen Linkler:
+  * https://luluvdo.com/e/4m8oa9z0bq7d
+  * https://luluvdo.com/e/a0ybueihyjx2
+  * https://luluvdo.com/e/2jhoc22h7j81
+  * https://luluvdo.com/e/edcvs4wdqyfz
+  * https://luluvdo.com/e/j43tlbjqys5l

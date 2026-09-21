@@ -1,0 +1,19 @@
+=================================================================
+OYNATICI: MyStream (mystream)
+Toplam Silinen Link Sayısı: 19
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Host shut down / parked ad page / no video: 19 adet
+
+En Çok Etkilenen Fansublar:
+  - Adonis-BD: 17 link
+  - AprilisSubs-BD: 2 link
+
+Örnek Silinen Linkler:
+  * https://embed.mystream.to/t7sjwi4g7076
+  * https://embed.mystream.to/6cyl7wiuf91a
+  * https://embed.mystream.to/5gxve9byrdob
+  * https://embed.mystream.to/z5phythvenim
+  * https://embed.mystream.to/us4oruryj32n

@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Ztreamhub (ztreamhub)
+Toplam Silinen Link Sayısı: 922
+Temel Silinme Sebebi: ParkLogic Zararlı Reklam Rotatörü
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain permanently parked on ParkLogic ad network (lylxan.com) / No video: 922 adet
+
+En Çok Etkilenen Fansublar:
+  - NetRip: 246 link
+  - Varsayılan: 160 link
+  - ElzSubs: 134 link
+  - HolySubs: 71 link
+  - YuushaSubs: 63 link
+
+Örnek Silinen Linkler:
+  * https://lylxan.com/e/16iu2r38e0oh
+  * https://lylxan.com/e/gozyysidg9ct
+  * https://lylxan.com/e/fhpk4eu1at5n
+  * https://lylxan.com/e/6lntaw75fg0l
+  * https://lylxan.com/e/1u6i6hdc033x

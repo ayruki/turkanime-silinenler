@@ -1,0 +1,23 @@
+=================================================================
+OYNATICI: VTube / VTPlay (vtube)
+Toplam Silinen Link Sayısı: 12,782
+Temel Silinme Sebebi: Zararlı Reklam Yönlendirme Botu / Video Yok
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Empty iframe loop / Defunct video server: 12,372 adet
+  - VTUBE (vtplay.net zararlı reklam yönlendirmesi): 410 adet
+
+En Çok Etkilenen Fansublar:
+  - HolySubs: 1,486 link
+  - AnimeWho: 1,399 link
+  - Tempest: 980 link
+  - Varsayılan: 719 link
+  - Tempest-BD: 702 link
+
+Örnek Silinen Linkler:
+  * https://vtube.to/embed-j1whr424c0ez.html
+  * https://vtube.to/embed-g19nbpzo7lfl.html
+  * https://vtube.to/embed-42tn9j271kbx.html
+  * https://vtube.to/embed-kbppypgu80kt.html
+  * https://vtube.to/embed-cpuub9gficke.html

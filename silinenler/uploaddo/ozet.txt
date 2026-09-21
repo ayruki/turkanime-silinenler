@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: UploadDo (uploaddo)
+Toplam Silinen Link Sayısı: 483
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Parked on ParkLogic ad network (no video): 483 adet
+
+En Çok Etkilenen Fansublar:
+  - ElzSubs: 66 link
+  - Varsayılan-BD: 56 link
+  - Varsayılan: 53 link
+  - YuushaSubs: 46 link
+  - HoşumuzaGidenŞeyler-BD: 43 link
+
+Örnek Silinen Linkler:
+  * https://upload.do/embed-621su18vcjol.html
+  * https://upload.do/embed-ezi3ihvxta8x.html
+  * https://upload.do/embed-j58fkoownl09.html
+  * https://upload.do/embed-w3czgle5ppz8.html
+  * https://upload.do/embed-k4zfeqcswemn.html

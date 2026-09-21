@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Vidello (vidello)
+Toplam Silinen Link Sayısı: 553
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Fake generic fallback video (w3lfas1qpzzp) ad fraud: 553 adet
+
+En Çok Etkilenen Fansublar:
+  - AnimeWho: 219 link
+  - HolySubs: 90 link
+  - NetRip-BD: 55 link
+  - AMT-BD: 39 link
+  - Varsayılan-BD: 23 link
+
+Örnek Silinen Linkler:
+  * https://vidello.net/e/d21xbgd3c3oh.html
+  * https://vidello.net/e/4eco0t6sog5g.html
+  * https://vidello.net/e/3u9ji1mx4tmi.html
+  * https://vidello.net/e/xirgd7y4kbp7.html
+  * https://vidello.net/e/y3w5708cyr2l.html

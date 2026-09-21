@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Sendvid (sendvid)
+Toplam Silinen Link Sayısı: 62,411
+Temel Silinme Sebebi: Kapanmış / İçi Boş Oynatıcı
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Host down / BTK blocked: 62,411 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 12,387 link
+  - PuzzleSubs: 3,913 link
+  - TAÇE: 3,504 link
+  - AnimeOU: 3,237 link
+  - Akatsuki: 2,252 link
+
+Örnek Silinen Linkler:
+  * https://sendvid.com/embed/ohef8azx
+  * https://sendvid.com/embed/9umcia0s
+  * https://sendvid.com/embed/0zranfsb
+  * https://sendvid.com/embed/6cyavpmb
+  * https://sendvid.com/embed/bassmnsh

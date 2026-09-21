@@ -1,0 +1,24 @@
+=================================================================
+OYNATICI: StreamWish (streamwish)
+Toplam Silinen Link Sayısı: 2,323
+Temel Silinme Sebebi: File is no longer available / Expired
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - File expired or deleted: 1,998 adet
+  - No video player found: 323 adet
+  - HTTP 404: 2 adet
+
+En Çok Etkilenen Fansublar:
+  - NetRip: 683 link
+  - LGI: 267 link
+  - Varsayılan: 190 link
+  - HolySubs: 144 link
+  - Seicode: 138 link
+
+Örnek Silinen Linkler:
+  * https://ghbrisk.com/e/v1r2ejeuo9g7
+  * https://ghbrisk.com/e/6l4of39t861z
+  * https://ghbrisk.com/e/l4a16ycpu33c
+  * https://ghbrisk.com/e/2sa5x8b0d087
+  * https://ghbrisk.com/e/h15gcja6h9ja

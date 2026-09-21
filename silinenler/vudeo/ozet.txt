@@ -1,0 +1,23 @@
+=================================================================
+OYNATICI: Vudeo / Vudea (vudeo)
+Toplam Silinen Link Sayısı: 74,836
+Temel Silinme Sebebi: Domain Satılık Park Sayfasına Düşmüş / Sunucu Yok
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Server dead / Connection timeout: 73,947 adet
+  - VUDEO (vudeo.ws satılık domain / ölü sunucu): 889 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 17,707 link
+  - TAÇE: 6,708 link
+  - AnimeOU: 2,656 link
+  - AMT: 2,560 link
+  - Tempest: 2,313 link
+
+Örnek Silinen Linkler:
+  * https://vudeo.io/embed-gphz73cm6xpc.html
+  * https://vudeo.io/embed-8bwh6p23z0vc.html
+  * https://vudeo.io/embed-weedikmjbow5.html
+  * https://vudeo.io/embed-pkfonaegnwt8.html
+  * https://vudeo.io/embed-crvkwey49vve.html

@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Embedgram (embedgram)
+Toplam Silinen Link Sayısı: 11,684
+Temel Silinme Sebebi: HTTP 404 Not Found / Kapanmış
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404 Not Found / Service shut down: 11,684 adet
+
+En Çok Etkilenen Fansublar:
+  - AnimeWho: 1,030 link
+  - Varsayılan: 704 link
+  - HolySubs: 640 link
+  - PuzzleSubs: 557 link
+  - Tempest: 503 link
+
+Örnek Silinen Linkler:
+  * https://embedgram.com/v/62oqop14n7394
+  * https://embedgram.com/v/62oqops5r203p
+  * https://embedgram.com/v/62o51205381qr
+  * https://embedgram.com/v/62oqornpqnqo6
+  * https://embedgram.com/v/62o5135r57r52

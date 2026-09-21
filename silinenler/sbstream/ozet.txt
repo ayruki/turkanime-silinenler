@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: SBStream (sbstream)
+Toplam Silinen Link Sayısı: 571
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Host permanently shut down / SSL protocol error / 404: 571 adet
+
+En Çok Etkilenen Fansublar:
+  - AnimeWho: 109 link
+  - ElzSubs: 79 link
+  - NetRip: 72 link
+  - LGI: 47 link
+  - YuushaSubs: 45 link
+
+Örnek Silinen Linkler:
+  * https://streamhide.to/e/g9mgpvf2gudl
+  * https://streamhide.to/e/hmrlw2pvbw07
+  * https://streamhide.to/e/rjaqx5sajx7c
+  * https://streamhide.to/e/336kuywyo1j6
+  * https://streamhide.to/e/e5ajwz8fn063

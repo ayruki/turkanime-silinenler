@@ -1,0 +1,23 @@
+=================================================================
+OYNATICI: StreamRuby (streamruby)
+Toplam Silinen Link Sayısı: 1,030
+Temel Silinme Sebebi: File is no longer available as it expired
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - File expired or deleted: 1,029 adet
+  - HTTP 404: 1 adet
+
+En Çok Etkilenen Fansublar:
+  - ShikiSubs: 343 link
+  - AnimeWho: 169 link
+  - YuushaSubs: 144 link
+  - YuushaSubs-BD: 73 link
+  - YukiSubs: 68 link
+
+Örnek Silinen Linkler:
+  * https://streamruby.com/embed-5qd3k8e7167y.html
+  * https://streamruby.com/embed-2xbo7gy611qd.html
+  * https://streamruby.com/embed-ulzt33jlorjs.html
+  * https://streamruby.com/embed-iyvyia75xea0.html
+  * https://streamruby.com/embed-hsm2rma465fu.html

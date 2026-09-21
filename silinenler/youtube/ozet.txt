@@ -1,0 +1,24 @@
+=================================================================
+OYNATICI: YouTube (youtube)
+Toplam Silinen Link Sayısı: 335
+Temel Silinme Sebebi: Resmi oEmbed API ile Telif / Gizli / Silinmiş Olanlar
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404: Video unavailable/deleted/private: 333 adet
+  - HTTP 401: Video unavailable/deleted/private: 1 adet
+  - HTTP 403: Video unavailable/deleted/private: 1 adet
+
+En Çok Etkilenen Fansublar:
+  - DonghuaTR: 75 link
+  - Varsayılan: 64 link
+  - Animan: 57 link
+  - Arcadia: 50 link
+  - SoulSubs: 28 link
+
+Örnek Silinen Linkler:
+  * https://www.youtube.com/embed/FtcJ3JZe_as
+  * https://www.youtube.com/embed/7oSNYGNLbZQ
+  * https://www.youtube.com/embed/kT-sBnCHmCw
+  * https://www.youtube.com/embed/pMX-4NDxOY8
+  * https://www.youtube.com/embed/zZpHt7a1Wqo

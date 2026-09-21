@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Uqload (uqload)
+Toplam Silinen Link Sayısı: 55,461
+Temel Silinme Sebebi: File Deleted / Kapanmış
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - File expired or deleted: 55,461 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 11,221 link
+  - TAÇE: 4,390 link
+  - PuzzleSubs: 2,453 link
+  - AnimeWho: 1,732 link
+  - AnimeOU: 1,699 link
+
+Örnek Silinen Linkler:
+  * https://uqload.com/embed-8ky5f0dpzjve.html
+  * https://uqload.com/embed-31cb11d57e74.html
+  * https://uqload.com/embed-pmcpu8muomay.html
+  * https://uqload.com/embed-xfx5n197njl4.html
+  * https://uqload.com/embed-d3kj96jex8qa.html

@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Yandex Disk (yadisk)
+Toplam Silinen Link Sayısı: 776
+Temel Silinme Sebebi: Resmi Yandex Disk REST API ile 404 / Silinmiş Olanlar
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404: Dosya Yandex Disk'ten silinmiş: 776 adet
+
+En Çok Etkilenen Fansublar:
+  - Akatsuki: 278 link
+  - FGL Çeviri: 160 link
+  - PuzzleSubs: 149 link
+  - Eski Çeviri: 35 link
+  - Unmei Çeviri: 21 link
+
+Örnek Silinen Linkler:
+  * https://yadi.sk/i/lLrLvTXO8EXDOw
+  * https://yadi.sk/i/FrADvIuC2cjETg
+  * https://yadi.sk/i/LjMEMJUmeKoioQ
+  * https://yadi.sk/i/qIPj4KnqR5PXtA
+  * https://yadi.sk/i/N8etIFNl54nsrA

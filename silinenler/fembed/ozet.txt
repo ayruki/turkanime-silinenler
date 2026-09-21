@@ -1,0 +1,19 @@
+=================================================================
+OYNATICI: Fembed (fembed)
+Toplam Silinen Link Sayısı: 8
+Temel Silinme Sebebi: Parked ad domain / Kapanmış
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - FEMBED / suzihaza.com - Parked ad domain / dead: 8 adet
+
+En Çok Etkilenen Fansublar:
+  - Kirigana Fairies: 7 link
+  - RaionSubs: 1 link
+
+Örnek Silinen Linkler:
+  * https://suzihaza.com/v/l11mpnhnmqd6ly3-
+  * https://suzihaza.com/v/dee5zpfxgkq7jdez
+  * https://suzihaza.com/v/m72gdnh5d7e48w20
+  * https://suzihaza.com/v/5pp25dbd38w3w354
+  * https://suzihaza.com/v/3kk3p0umn7lg6p6q

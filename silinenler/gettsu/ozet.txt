@@ -1,0 +1,23 @@
+=================================================================
+OYNATICI: Gettsu (gett.su) (gettsu)
+Toplam Silinen Link Sayısı: 3,997
+Temel Silinme Sebebi: Hostland.ru Boş Park Sayfası / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain deleted / NXDOMAIN / 404: 3,789 adet
+  - Domain dead (gett.su 404 / service down): 208 adet
+
+En Çok Etkilenen Fansublar:
+  - NetRip: 727 link
+  - ShikiSubs: 689 link
+  - Varsayılan: 355 link
+  - Varsayılan-BD: 286 link
+  - Animan-BD: 155 link
+
+Örnek Silinen Linkler:
+  * https://gett.su/file/w8kyuz6hpspf/embed.html
+  * https://gett.su/file/v3h9vpx09ubu/embed.html
+  * https://gett.su/file/ehelccdgh87y/embed.html
+  * https://gett.su/file/pdijqlrfnxxt/embed.html
+  * https://gett.su/file/h7qd3lr97vnt/embed.html

@@ -1,0 +1,15 @@
+=================================================================
+OYNATICI: StreamZZ (streamzz)
+Toplam Silinen Link Sayısı: 2
+Temel Silinme Sebebi: Sunucu Kapatılmış / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - STREAMZZ / streamzz.to - Server shut down / timeout: 2 adet
+
+En Çok Etkilenen Fansublar:
+  - Kirigana Fairies: 2 link
+
+Örnek Silinen Linkler:
+  * https://streamzz.to/iM2JhMHV2MGlocnY0a2Js
+  * https://streamzz.to/iOHUyZm9iNWQ5dGJ0ZXgw

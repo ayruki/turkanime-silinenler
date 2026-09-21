@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Redload (redload)
+Toplam Silinen Link Sayısı: 1,499
+Temel Silinme Sebebi: HTTP 410 Gone / Sunucu Kapatılmış
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Host permanently shut down / HTTP 410 Gone / SSL Timeout (redload.co): 1,499 adet
+
+En Çok Etkilenen Fansublar:
+  - AnimeWho: 236 link
+  - NetRip: 155 link
+  - Pijamalı Koi: 108 link
+  - Varsayılan-BD: 107 link
+  - Varsayılan: 93 link
+
+Örnek Silinen Linkler:
+  * https://redload.co/e/rpqwzk6b08lx
+  * https://redload.co/e/ujq79fvv1xlz
+  * https://redload.co/e/emqtvbqdaks6
+  * https://redload.co/e/r4bacrgn9xjq
+  * https://redload.co/e/ru90r8ywbv0b

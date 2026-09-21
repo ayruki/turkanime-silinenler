@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Cyberfile (cyberfile)
+Toplam Silinen Link Sayısı: 1,150
+Temel Silinme Sebebi: BTK Mahkeme Kararıyla Engelli / Sunucu Yok
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Server dead / Connection timeout: 1,150 adet
+
+En Çok Etkilenen Fansublar:
+  - HolySubs: 329 link
+  - AnimeWho: 198 link
+  - Eski Çeviri: 54 link
+  - Benihime Fansub: 50 link
+  - Varsayılan: 49 link
+
+Örnek Silinen Linkler:
+  * https://cyberfile.me/video/embed/jitT/600x400/video
+  * https://cyberfile.me/video/embed/jjtV/600x400/video
+  * https://cyberfile.me/video/embed/f6u7/600x400/video
+  * https://cyberfile.me/video/embed/b0vq/600x400/video
+  * https://cyberfile.me/video/embed/buNa/600x400/video

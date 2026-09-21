@@ -1,0 +1,24 @@
+=================================================================
+OYNATICI: Dailymotion (dailymotion)
+Toplam Silinen Link Sayısı: 5,057
+Temel Silinme Sebebi: Resmi API Doğrulaması ile Telif/Silinmiş Olanlar
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404: Video silinmiş veya telifli: 4,864 adet
+  - HTTP 403: Video silinmiş veya telifli: 192 adet
+  - HTTP 404 Not Found: 1 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 429 link
+  - AkiraSubs: 389 link
+  - AoiSubs: 386 link
+  - Pijamalı Koi: 356 link
+  - PuzzleSubs: 244 link
+
+Örnek Silinen Linkler:
+  * https://www.dailymotion.com/embed/video/x1jzz9e
+  * https://www.dailymotion.com/embed/video/x7x65ym
+  * https://www.dailymotion.com/embed/video/x7x8ggk
+  * https://www.dailymotion.com/embed/video/x7xxk6w
+  * https://www.dailymotion.com/embed/video/x87dxal

@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Mvidoo (mvidoo)
+Toplam Silinen Link Sayısı: 18,027
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain hijacked / ParkLogic malware redirect: 18,027 adet
+
+En Çok Etkilenen Fansublar:
+  - PuzzleSubs: 1,688 link
+  - Varsayılan: 1,480 link
+  - AnimeWho: 1,110 link
+  - Akatsuki: 686 link
+  - AniSekai: 657 link
+
+Örnek Silinen Linkler:
+  * https://mvidoo.com/embed-gj868xa6eeir.html
+  * https://mvidoo.com/embed-zaer1l2eklub.html
+  * https://mvidoo.com/embed-75wav11c50rk.html
+  * https://mvidoo.com/embed-a9rfn1252sw1.html
+  * https://mvidoo.com/embed-p9i7q8qzx0q1.html

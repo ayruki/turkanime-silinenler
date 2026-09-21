@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Videa.hu (videa)
+Toplam Silinen Link Sayısı: 215
+Temel Silinme Sebebi: Telif Hakkı / Silinmiş Video
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404 Not Found: 215 adet
+
+En Çok Etkilenen Fansublar:
+  - Akatsuki: 49 link
+  - Çeviri Bükücüler: 37 link
+  - Knaves: 28 link
+  - FGL Çeviri: 27 link
+  - YuushaSubs-BD: 17 link
+
+Örnek Silinen Linkler:
+  * https://videa.hu/player?v=TMw6FEwWArgqmqC3
+  * https://videa.hu/player?v=1VFhahjpH9JP279o
+  * https://videa.hu/player?v=kGV4hzjP1g8kSfos
+  * https://videa.hu/player?v=CDMwkUBZqXh0mTeH
+  * https://videa.hu/player?v=ESAVErxBKIN2LzBo

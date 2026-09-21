@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Streamvid (streamvid)
+Toplam Silinen Link Sayısı: 4,330
+Temel Silinme Sebebi: ParkLogic Zararlı Reklam Rotatörü
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain hijacked / ParkLogic malware redirect: 4,330 adet
+
+En Çok Etkilenen Fansublar:
+  - HolySubs: 818 link
+  - AnimeWho: 360 link
+  - Animan-BD: 283 link
+  - Animan: 274 link
+  - YuushaSubs: 228 link
+
+Örnek Silinen Linkler:
+  * https://streamvid.net/embed-6cho9wxe2hns.html
+  * https://streamvid.net/embed-mfn1nikctj5a.html
+  * https://streamvid.net/embed-k36fi5d5v95x.html
+  * https://streamvid.net/embed-yqcixb7vwlfa.html
+  * https://streamvid.net/embed-6cgenx56t5i6.html

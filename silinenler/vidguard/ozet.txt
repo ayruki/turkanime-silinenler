@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: VidGuard (vidguard)
+Toplam Silinen Link Sayısı: 2,660
+Temel Silinme Sebebi: Malware / Reklam Döngüsü / Video Yok
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Host shut down / Infinite redirect loop to ad network (listeamed.net): 2,660 adet
+
+En Çok Etkilenen Fansublar:
+  - HolySubs: 687 link
+  - NetRip: 508 link
+  - ShikiSubs: 304 link
+  - Varsayılan-BD: 180 link
+  - Varsayılan: 154 link
+
+Örnek Silinen Linkler:
+  * https://listeamed.net/e/wP2050rPRzLEdmy
+  * https://listeamed.net/e/JzkPxzwY2WXEbyd
+  * https://listeamed.net/e/VqbX53BkAgoOQzp
+  * https://listeamed.net/e/ZMVoEroRZdJO9Pa
+  * https://listeamed.net/e/LQm9OXrlRLKx1lg

@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Clone Video (clone)
+Toplam Silinen Link Sayısı: 74,906
+Temel Silinme Sebebi: Servis Kapatılmış / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain deleted (NXDOMAIN): 74,906 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 16,340 link
+  - TAÇE: 5,740 link
+  - AnimeOU: 2,693 link
+  - AMT: 2,415 link
+  - Akatsuki: 2,171 link
+
+Örnek Silinen Linkler:
+  * https://short.icu/?v=Ldv9VfOma
+  * https://short.icu/?v=lW_tsYFasf
+  * https://short.icu/?v=myFQx4Ljl
+  * https://short.icu/?v=L2M2NIOPWb
+  * https://short.icu/?v=zAsxsC7R6

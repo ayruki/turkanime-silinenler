@@ -1,0 +1,21 @@
+=================================================================
+OYNATICI: DSVPlay (dsvplay)
+Toplam Silinen Link Sayısı: 58
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - BTK / Court order blocked (25/09/2025 tarihli ve 490.05.01.2025.-578978 kararı): 58 adet
+
+En Çok Etkilenen Fansublar:
+  - LGI: 39 link
+  - NetRip: 9 link
+  - Türkçe Dublaj: 9 link
+  - Seicode: 1 link
+
+Örnek Silinen Linkler:
+  * https://dsvplay.com/15o2m71fy466
+  * https://dsvplay.com/wklv7t2ilvf1
+  * https://dsvplay.com/br8vayj7tgjt
+  * https://dsvplay.com/gwg2qstzu6ke
+  * https://dsvplay.com/z1if1bd1kc5a

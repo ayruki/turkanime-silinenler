@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: FileLions (filelions)
+Toplam Silinen Link Sayısı: 287
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain expired / parked on ParkLogic ad network: 287 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan-BD: 38 link
+  - HolySubs: 33 link
+  - NetRip: 32 link
+  - Varsayılan: 31 link
+  - LGI: 31 link
+
+Örnek Silinen Linkler:
+  * https://filelions.live/v/yi7xjtk1l6b9
+  * https://filelions.live/v/lqvybfsvjws0
+  * https://filelions.live/v/l6qcowjlx2hq
+  * https://filelions.live/v/wqumlx5i71wb
+  * https://filelions.live/v/3e68zx03ubs4

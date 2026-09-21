@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Embedrise (embedrise)
+Toplam Silinen Link Sayısı: 4,103
+Temel Silinme Sebebi: Servis Kapatılmış / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Host redirects to root ad page / 100% dead / fake player: 4,103 adet
+
+En Çok Etkilenen Fansublar:
+  - HolySubs: 606 link
+  - NetRip: 458 link
+  - Varsayılan: 388 link
+  - Varsayılan-BD: 327 link
+  - ShikiSubs: 234 link
+
+Örnek Silinen Linkler:
+  * https://embedrise.com/v/65c28acaa8f9e
+  * https://embedrise.com/v/65bcdb60a7605
+  * https://embedrise.com/v/65c542532e343
+  * https://embedrise.com/v/65beb4ffdf465
+  * https://embedrise.com/v/65b63a765e3a8

@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: BigWarp (bigwarp)
+Toplam Silinen Link Sayısı: 377
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Fake countdown video (321b.mp4) ad fraud host: 377 adet
+
+En Çok Etkilenen Fansublar:
+  - NetRip: 209 link
+  - Varsayılan: 38 link
+  - AnimeWho: 37 link
+  - YukiSubs: 27 link
+  - Türkçe Dublaj: 23 link
+
+Örnek Silinen Linkler:
+  * https://bigwarp.io/e/duulai4otevh
+  * https://bigwarp.io/e/9iwfznzbm1go
+  * https://bigwarp.io/e/0y7igtqljt8t
+  * https://bigwarp.io/e/d5dbyf54t1z7
+  * https://bigwarp.io/e/q4mydhlxbp2s

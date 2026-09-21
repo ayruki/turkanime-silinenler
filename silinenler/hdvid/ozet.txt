@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: HDVid (hdvid)
+Toplam Silinen Link Sayısı: 137
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - File was deleted: 137 adet
+
+En Çok Etkilenen Fansublar:
+  - LGI: 129 link
+  - Seicode: 3 link
+  - Animan: 2 link
+  - Clover: 1 link
+  - SubsP: 1 link
+
+Örnek Silinen Linkler:
+  * https://hdvid.tv/embed-jqq80ndd91m1.html
+  * https://hdvid.tv/embed-zapm8ftq1zx2.html
+  * https://hdvid.tv/embed-dka19k7ft7pb.html
+  * https://hdvid.tv/embed-82epfqv8gdqc.html
+  * https://hdvid.tv/embed-l259mjfdq16k.html

@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Embedo (embedo)
+Toplam Silinen Link Sayısı: 16,938
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain hijacked / ParkLogic malware redirect: 16,938 adet
+
+En Çok Etkilenen Fansublar:
+  - PuzzleSubs: 1,648 link
+  - Varsayılan: 1,475 link
+  - AnimeWho: 1,029 link
+  - Akatsuki: 676 link
+  - AniSekai: 674 link
+
+Örnek Silinen Linkler:
+  * https://embedo.co/e/rjto3dt2yjlq
+  * https://embedo.co/e/haf8jhkbtdxy
+  * https://embedo.co/e/oqn2od0ine9b
+  * https://embedo.co/e/gfuurhemrgbb
+  * https://embedo.co/e/kolij4egu83l

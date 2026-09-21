@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: MediaCM (mediacm)
+Toplam Silinen Link Sayısı: 3,467
+Temel Silinme Sebebi: Servis Kapatılmış / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Fake embed wrapper / no video player / reCAPTCHA redirect: 3,467 adet
+
+En Çok Etkilenen Fansublar:
+  - LGI: 1,105 link
+  - HolySubs: 863 link
+  - NetRip: 435 link
+  - Varsayılan: 246 link
+  - Varsayılan-BD: 174 link
+
+Örnek Silinen Linkler:
+  * https://media.cm/e/x8xjrts9e37p
+  * https://media.cm/e/d3ih3t45myld
+  * https://media.cm/e/uh0y303w2vl2
+  * https://media.cm/e/jcizke6dtrh3
+  * https://media.cm/e/9g8zdbhovc3e

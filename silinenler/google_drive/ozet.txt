@@ -1,0 +1,24 @@
+=================================================================
+OYNATICI: Google Drive (google_drive)
+Toplam Silinen Link Sayısı: 62,144
+Temel Silinme Sebebi: HTTP 404 / 403 (Hizmet Şartları ve Telif İhlali) / 401
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404 / 403 (Hizmet Şartları ve Telif İhlali) / 401: 61,052 adet
+  - 403 Forbidden (Hizmet Şartları / Telif İhlali): 891 adet
+  - 404 Not Found (Dosya Silinmiş): 201 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 16,510 link
+  - TAÇE: 5,904 link
+  - Eski Çeviri: 2,430 link
+  - AnimeOU: 2,373 link
+  - DonghuaTR: 2,353 link
+
+Örnek Silinen Linkler:
+  * https://drive.google.com/file/d/1DyuoPMR7LFpyygduBkpmcFsGUdm9qIJ4/preview
+  * https://drive.google.com/file/d/1uaPmNxLZcmuJTmiNSdrJ0hdvFPnG4bRP/preview
+  * https://drive.google.com/file/d/1-a9v8KFrhkzZIWKqJGM2XUpmozkpO1uq/preview
+  * https://drive.google.com/file/d/1iLOJ_SI7yYlS-R3f7_ZFsU2aWS2pXopH/preview
+  * https://drive.google.com/file/d/1pMQIFpGOd1e7Os2KnFt69pA45zhsdik-/preview

@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Streamlare (streamlare)
+Toplam Silinen Link Sayısı: 9,603
+Temel Silinme Sebebi: Servis Kapatılmış / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain hijacked / ParkLogic malware redirect: 9,603 adet
+
+En Çok Etkilenen Fansublar:
+  - TAÇE: 1,515 link
+  - AnimeWho: 1,009 link
+  - AnimeWho-BD: 705 link
+  - Varsayılan: 517 link
+  - Tempest-BD: 498 link
+
+Örnek Silinen Linkler:
+  * https://streamlare.com/e/vrJmXD085V2DGg8o
+  * https://streamlare.com/e/5qwo9lyGkqvDrWvP
+  * https://streamlare.com/e/o715pne2AMxDvyqO
+  * https://streamlare.com/e/10rwmD72XernRaZ8
+  * https://streamlare.com/e/VYvAyz2eLeQDg9kL

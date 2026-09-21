@@ -1,0 +1,19 @@
+=================================================================
+OYNATICI: CDA.pl (cda)
+Toplam Silinen Link Sayısı: 5
+Temel Silinme Sebebi: Telif Hakkı / Silinmiş Video
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - CDA 404 Not Found: 5 adet
+
+En Çok Etkilenen Fansublar:
+  - NetRip: 4 link
+  - 1456ha: 1 link
+
+Örnek Silinen Linkler:
+  * https://ebd.cda.pl/1920x1080/28814254b5
+  * https://ebd.cda.pl/1920x1080/2815314331
+  * https://ebd.cda.pl/1920x1080/2433888256
+  * https://ebd.cda.pl/1920x1080/2421938723
+  * https://ebd.cda.pl/1920x1080/2401920795

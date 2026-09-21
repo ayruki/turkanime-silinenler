@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: VGEmbed (vgembed)
+Toplam Silinen Link Sayısı: 2,040
+Temel Silinme Sebebi: HTTP 404 Not Found / Kapanmış
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404 Not Found / Service shut down: 2,040 adet
+
+En Çok Etkilenen Fansublar:
+  - HolySubs: 345 link
+  - NetRip: 234 link
+  - Animan: 213 link
+  - YuushaSubs: 176 link
+  - YuushaSubs-BD: 171 link
+
+Örnek Silinen Linkler:
+  * https://vgembed.com/e/0DogOGDJgP5KjM6
+  * https://vgembed.com/e/qA3WOmJ6zN5Kkz4
+  * https://vgembed.com/e/mMq75L6XGyEXPBY
+  * https://vid-guard.com/e/njJYOd8GznOe9od
+  * https://vid-guard.com/e/KrdZ5knvlpOmX47

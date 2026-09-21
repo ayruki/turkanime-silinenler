@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: BullStream (bullstream)
+Toplam Silinen Link Sayısı: 236
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - NXDOMAIN (bullstream.xyz dead domain): 236 adet
+
+En Çok Etkilenen Fansublar:
+  - YuushaSubs: 127 link
+  - YuushaSubs-BD: 59 link
+  - AoiSubs: 27 link
+  - Çeviri Bükücüler: 5 link
+  - Tempest: 4 link
+
+Örnek Silinen Linkler:
+  * https://bullstream.xyz/watch?v=7BTURG36
+  * https://bullstream.xyz/watch?v=8QTPB5M4
+  * https://bullstream.xyz/watch?v=10QCMU4N
+  * https://bullstream.xyz/watch?v=FUG7RAS5
+  * https://bullstream.xyz/watch?v=DHMV5UCO

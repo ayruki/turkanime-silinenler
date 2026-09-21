@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: MP4Upload (mp4upload)
+Toplam Silinen Link Sayısı: 82,305
+Temel Silinme Sebebi: File Not Found / Expired / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - File was deleted: 82,305 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 19,734 link
+  - TAÇE: 8,132 link
+  - AnimeOU: 3,579 link
+  - AMT: 2,928 link
+  - Heterophobia: 2,551 link
+
+Örnek Silinen Linkler:
+  * https://www.mp4upload.com/embed-b75y5iz3home.html
+  * https://www.mp4upload.com/embed-4j7i1m93zy4z.html
+  * https://www.mp4upload.com/embed-4pwl8x8iamso.html
+  * https://www.mp4upload.com/embed-tx0wesm8rfmh.html
+  * https://www.mp4upload.com/embed-0qcesdtcf2r5.html

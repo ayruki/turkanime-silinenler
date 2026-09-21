@@ -1,0 +1,23 @@
+=================================================================
+OYNATICI: YourUpload (yourupload)
+Toplam Silinen Link Sayısı: 4,091
+Temel Silinme Sebebi: File no longer exists / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - novideo.mp4 placeholder (Video silinmiş): 3,972 adet
+  - HTTP 404 Not Found: 119 adet
+
+En Çok Etkilenen Fansublar:
+  - LGI: 1,909 link
+  - NetRip: 727 link
+  - Varsayılan-BD: 297 link
+  - Varsayılan: 241 link
+  - ShikiSubs: 158 link
+
+Örnek Silinen Linkler:
+  * https://yourupload.com/embed/2EpqW42o6D6W
+  * https://yourupload.com/embed/uDH4EKE1nrXG
+  * https://yourupload.com/embed/oc2503LK6Nd5
+  * https://yourupload.com/embed/Fpp63rt1ngF6
+  * https://yourupload.com/embed/0Ylfs8WuxMMU

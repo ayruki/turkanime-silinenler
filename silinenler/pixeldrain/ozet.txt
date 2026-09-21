@@ -1,0 +1,15 @@
+=================================================================
+OYNATICI: PixelDrain (pixeldrain)
+Toplam Silinen Link Sayısı: 543
+Temel Silinme Sebebi: Resmi API ile 404 File Not Found
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404: File not found or expired: 543 adet
+
+Örnek Silinen Linkler:
+  * https://www.turkanime.tv/html/pixeldrain.php?id=AUuZDiXf
+  * https://pixeldrain.com/u/5zy7itpv
+  * https://pixeldrain.com/u/1K2ycUvr
+  * https://pixeldrain.com/u/tbrkevF7
+  * https://pixeldrain.com/u/jGS4dfaM

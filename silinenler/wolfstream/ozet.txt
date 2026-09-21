@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Wolfstream (wolfstream)
+Toplam Silinen Link Sayısı: 3,400
+Temel Silinme Sebebi: This domain is for sale / Kapanmış
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Host permanently shut down / Domain for sale (wolfstream.tv): 3,400 adet
+
+En Çok Etkilenen Fansublar:
+  - HolySubs: 1,507 link
+  - NetRip: 312 link
+  - AnimeWho: 153 link
+  - Eski Çeviri: 102 link
+  - Varsayılan: 102 link
+
+Örnek Silinen Linkler:
+  * https://wolfstream.tv/embed-2ttgct1s2r50.html
+  * https://wolfstream.tv/embed-5aaivjmybaxe.html
+  * https://wolfstream.tv/embed-ivy43nu8hry5.html
+  * https://wolfstream.tv/embed-fpoa7xi5wclj.html
+  * https://wolfstream.tv/embed-c3ldwg00ox50.html

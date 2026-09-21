@@ -1,0 +1,20 @@
+=================================================================
+OYNATICI: VK.com (vk)
+Toplam Silinen Link Sayısı: 4,516
+Temel Silinme Sebebi: Video Silinmiş / Ağlayan Köpek İkonu (light_cry_dog)
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - VK Video Bulunamadı / Silinmiş (light_cry_dog): 4,487 adet
+  - HTTP 404 Video Bulunamadı: 27 adet
+  - HTTP 404 Not Found: 2 adet
+
+En Çok Etkilenen Fansublar:
+  - AniSekai: 2 link
+
+Örnek Silinen Linkler:
+  * https://videoapi.my.mail.ru/videos/embed///vk.com/video_ext.php
+  * https://videoapi.my.mail.ru/videos/embed///vk.com//my.mail.ru/mail/mertcanmulk/15/141.html/video_ext.php
+  * https://vk.com/video_ext.php?oid=209639255&id=166534411&hash=d0041e4b1ade8be5&hd=1
+  * https://vk.com/video_ext.php?oid=259421025&id=456239199&hash=1e14369bd4f6d0b7&hd=1
+  * https://vk.com/video_ext.php?oid=225713967&id=456239305&hash=90eaba8377b04d25&hd=1

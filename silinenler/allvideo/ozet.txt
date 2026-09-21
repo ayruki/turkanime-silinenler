@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: AllVideo (allvideo)
+Toplam Silinen Link Sayısı: 841
+Temel Silinme Sebebi: Servis Kapatılmış / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Host empty / %100 dead (All files deleted, HTTP 404): 841 adet
+
+En Çok Etkilenen Fansublar:
+  - AoiSubs: 308 link
+  - TAÇE: 170 link
+  - Eski Çeviri: 62 link
+  - Çeviri Bükücüler: 47 link
+  - Varsayılan: 45 link
+
+Örnek Silinen Linkler:
+  * https://www.allvideo.monster/embed/354284/aoisubs-86-eighty-six-03-1080p/
+  * https://www.allvideo.monster/embed/483333/aoisubs-86-eighty-six-11-1080p/
+  * https://www.allvideo.monster/embed/478437/aoisubs-86-eighty-six-09-1080p/
+  * https://www.allvideo.monster/embed/414377/aoisubs-86-eighty-six-05-1080p/
+  * https://www.allvideo.monster/embed/616703/aoisubs-black-clover-104-1080p/

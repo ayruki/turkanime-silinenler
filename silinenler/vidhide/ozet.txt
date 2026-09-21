@@ -1,0 +1,25 @@
+=================================================================
+OYNATICI: VidHide (vidhide)
+Toplam Silinen Link Sayısı: 1,786
+Temel Silinme Sebebi: File is no longer available / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - File expired or deleted: 1,367 adet
+  - HTTP 503: 273 adet
+  - No video player found: 142 adet
+  - HTTP 404: 4 adet
+
+En Çok Etkilenen Fansublar:
+  - NetRip: 588 link
+  - ShikiSubs: 364 link
+  - Seicode: 152 link
+  - Varsayılan: 122 link
+  - Türkçe Dublaj: 106 link
+
+Örnek Silinen Linkler:
+  * https://dhtpre.com/v/gsxxaysv982e_o
+  * https://dhtpre.com/v/2i2oku60w707
+  * https://dhtpre.com/v/tupn4r6gle46
+  * https://dhtpre.com/v/edq85m5152gn
+  * https://dhtpre.com/v/h8golwmgv4ra

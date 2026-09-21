@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Sibnet (sibnet)
+Toplam Silinen Link Sayısı: 284
+Temel Silinme Sebebi: Silinmiş / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Silinmiş / 404: 284 adet
+
+En Çok Etkilenen Fansublar:
+  - HolySubs: 91 link
+  - Seicode: 42 link
+  - Kirigana Fairies: 26 link
+  - Adonis: 25 link
+  - PuzzleSubs: 14 link
+
+Örnek Silinen Linkler:
+  * https://video.sibnet.ru/shell.php?videoid=4835118
+  * https://video.sibnet.ru/shell.php?videoid=5799431
+  * https://video.sibnet.ru/shell.php?videoid=6237309
+  * https://video.sibnet.ru/shell.php?videoid=5735040
+  * https://video.sibnet.ru/shell.php?videoid=5777629

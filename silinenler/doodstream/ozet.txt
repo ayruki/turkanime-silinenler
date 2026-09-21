@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: DoodStream (doodstream)
+Toplam Silinen Link Sayısı: 19,468
+Temel Silinme Sebebi: Dosya Silinmiş / Hesap Kapatılmış
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Court-ordered block in Turkey (BTK / 195.175.254.2) / inaccessible / broken host: 19,468 adet
+
+En Çok Etkilenen Fansublar:
+  - LGI: 3,701 link
+  - HolySubs: 1,716 link
+  - NetRip: 1,289 link
+  - Varsayılan: 821 link
+  - Animan-BD: 792 link
+
+Örnek Silinen Linkler:
+  * https://dood.watch/e/5uu15eq53x47
+  * https://dood.watch/e/l3duhe6ghpud
+  * https://dood.watch/e/qyiike9dn1x0
+  * https://dood.watch/e/iyquknn0cl4y
+  * https://dood.watch/e/pck8y40jiipg

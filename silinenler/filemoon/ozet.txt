@@ -1,0 +1,15 @@
+=================================================================
+OYNATICI: Filemoon (filemoon)
+Toplam Silinen Link Sayısı: 7,637
+Temel Silinme Sebebi: Resmi API ile HTTP 404 Video Not Found
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404 Video Bulunamadı / Silinmiş: 7,637 adet
+
+Örnek Silinen Linkler:
+  * https://filemoon.sx/e/chy0u75u3pqi
+  * https://filemoon.sx/e/8jla7b3bd025
+  * https://filemoon.sx/e/cd8vgdxe6uk3
+  * https://filemoon.sx/e/lyhsxku5v4bd
+  * https://filemoon.sx/e/vtuprfhfscf8

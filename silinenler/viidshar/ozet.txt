@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Viidshar / Vadshar (viidshar)
+Toplam Silinen Link Sayısı: 5,038
+Temel Silinme Sebebi: ParkLogic Zararlı Reklam Rotatörü
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Domain hijacked / ParkLogic malware redirect: 5,038 adet
+
+En Çok Etkilenen Fansublar:
+  - TAÇE: 1,014 link
+  - NetRip: 783 link
+  - Varsayılan: 594 link
+  - Varsayılan-BD: 380 link
+  - AnimeWho: 290 link
+
+Örnek Silinen Linkler:
+  * https://vadshar.com/embed-tk3uvgsc58nk.html
+  * https://vadshar.com/embed-flfdktmswvzr.html
+  * https://vadshar.com/embed-d9rtkgi1dj32.html
+  * https://vadshar.com/embed-fkbnu3a6nh0d.html
+  * https://vadshar.com/embed-6p69rf41w25e.html

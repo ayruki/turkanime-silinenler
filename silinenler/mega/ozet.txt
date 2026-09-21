@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Mega.nz (mega)
+Toplam Silinen Link Sayısı: 6,683
+Temel Silinme Sebebi: HTTP 404 / Dosya Silinmiş / Hesap Kapatılmış
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404 / Dosya Silinmiş / Hesap Kapatılmış: 6,683 adet
+
+En Çok Etkilenen Fansublar:
+  - AoiSubs: 920 link
+  - AkiraSubs: 393 link
+  - YuushaSubs: 390 link
+  - RaionSubs: 353 link
+  - PuzzleSubs: 332 link
+
+Örnek Silinen Linkler:
+  * https://mega.nz/embed/pIAAVCSI#oHqcaudyy08MfWZMfWg-f94lg3U6Ij3pPPZnushOwvg
+  * https://mega.nz/embed/kcgxmDoA#kRiWBI6bKFgYKKekLbigRH5cq1Zkj4-fbKxkqcvBx0U
+  * https://mega.nz/embed/eJUx1QYS#Ou-1OmMGlh8g0OzPDdi3kySrjSKPDjBrAfz9oomGJgc
+  * https://mega.nz/embed/sdBAkBbB#TfOndNf_-eoSqEjD2wUwy87I6ivDCqeVz-svVCK5Qyg
+  * https://mega.nz/embed/QAoTBYrK#-sUKo9lCUjreIXjGDTv6RFjzwM82yhuBD8Y6mLgRvEM

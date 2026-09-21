@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: Highload (highload)
+Toplam Silinen Link Sayısı: 9,725
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - Parked domain / Malicious redirect: 9,725 adet
+
+En Çok Etkilenen Fansublar:
+  - TAÇE: 1,512 link
+  - AnimeWho: 1,285 link
+  - AnimeWho-BD: 719 link
+  - AkiraSubs: 495 link
+  - Varsayılan: 480 link
+
+Örnek Silinen Linkler:
+  * https://highload.to/e/pwprduszwtm8
+  * https://highload.to/e/rbqw3zrlry4a
+  * https://highload.to/e/fv8n2niwun4h
+  * https://highload.to/e/u3f3rrnpn8yd
+  * https://highload.to/e/vzovvudckzgp

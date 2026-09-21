@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: StreamP2P (streamp2p)
+Toplam Silinen Link Sayısı: 170
+Temel Silinme Sebebi: Kapanmış Servis / 404
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404 Video not found or deleted on strp2p CDN: 170 adet
+
+En Çok Etkilenen Fansublar:
+  - YukiSubs: 66 link
+  - Rose&Night Subs: 33 link
+  - Hori Fansub: 25 link
+  - RaionSubs: 16 link
+  - Benihime Fansub: 15 link
+
+Örnek Silinen Linkler:
+  * https://yukisubs.strp2p.com/#pnxcjr
+  * https://yukisubs.strp2p.com/#nj39ko
+  * https://anizm.strp2p.com/#3upkyd
+  * https://yukisubs.strp2p.com/#l6sj8n
+  * https://yukisubs.strp2p.com/#uygzns

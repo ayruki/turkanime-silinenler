@@ -2,6 +2,10 @@
 
 turkanime uzerindeki silinmis, kapanmis ve ulasilamayan video linklerinin listesidir.
 
+bu calisma nutalia tarafindan kurtarilan asil turkanime arsivine katki saglamak amaciyla hazirlanmistir.
+asil arsiv ve izleme projesi: https://github.com/Nutaliaxd/TurkAnimeTV_Arsiv
+arsivi baslatan ve koruyan nutalia'ya tesekkur ederiz.
+
 bu arsivde ok.ru ve voe oynaticilarina ait linkler bulunmamaktadir.
 
 tum linkler silinenler klasoru altinda oynatici bazinda ayrilmistir. her klasorun icinde ozet.txt ve ayrintili silinen_linkler.jsonl dosyasi mevcuttur.

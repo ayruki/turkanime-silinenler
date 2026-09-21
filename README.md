@@ -6,7 +6,7 @@ bu calisma nutalia tarafindan kurtarilan asil turkanime arsivine katki saglamak 
 asil arsiv ve izleme projesi: https://github.com/Nutaliaxd/TurkAnimeTV_Arsiv
 arsivi baslatan ve koruyan nutalia'ya tesekkur ederiz.
 
-bu arsivde ok.ru ve voe oynaticilarina ait linkler bulunmamaktadir.
+ok.ru oynaticisina ait linkler temizlenme asamasindadir.
 
 tum linkler silinenler klasoru altinda oynatici bazinda ayrilmistir. her klasorun icinde ozet.txt ve ayrintili silinen_linkler.jsonl dosyasi mevcuttur.
 
@@ -19,6 +19,7 @@ tum linkler silinenler klasoru altinda oynatici bazinda ayrilmistir. her klasoru
 | vudeo | 74,836 |
 | sendvid | 62,411 |
 | google_drive | 62,144 |
+| voe | 57,462 |
 | uqload | 55,461 |
 | streamsb | 24,609 |
 | doodstream | 19,468 |
@@ -74,4 +75,4 @@ tum linkler silinenler klasoru altinda oynatici bazinda ayrilmistir. her klasoru
 | bys | 4 |
 | streamzz | 2 |
 
-toplam silinen: 675,309
+toplam silinen: 732,771

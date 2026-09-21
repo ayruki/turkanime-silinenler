@@ -1,0 +1,22 @@
+=================================================================
+OYNATICI: VOE (voe)
+Toplam Silinen Link Sayısı: 57,462
+Temel Silinme Sebebi: Video Deleted / 404 Not Found
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - HTTP 404 Not Found: 57,462 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 5,629 link
+  - LGI: 3,281 link
+  - PuzzleSubs: 2,922 link
+  - HolySubs: 2,678 link
+  - AnimeWho: 2,497 link
+
+Örnek Silinen Linkler:
+  * https://voe.sx/e/esx9avymfmn8
+  * https://voe.sx/e/bwdiloq6nk0v
+  * https://voe.sx/e/hil7xu0jx1up
+  * https://voe.sx/e/zzfskq3zfvdu
+  * https://voe.sx/e/3klez434gmhr

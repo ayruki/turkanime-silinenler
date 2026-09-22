@@ -1,18 +1,20 @@
 =================================================================
 OYNATICI: HDVid (hdvid)
-Toplam Silinen Link Sayısı: 137
-Temel Silinme Sebebi: Kapanmış Servis / 404
+Toplam Silinen Link Sayısı: 598
+Temel Silinme Sebebi: Kapanmış Servis / 404 / Storage Server Dead
 =================================================================
 
 Detaylı Tespit Edilen Sebepler:
-  - File was deleted: 137 adet
+  - Storage server timeout (Error loading media: File could not be played): 459 adet
+  - File was deleted: 138 adet
+  - Stream HTTP 500 (Storage server dead): 1 adet
 
 En Çok Etkilenen Fansublar:
-  - LGI: 129 link
-  - Seicode: 3 link
-  - Animan: 2 link
-  - Clover: 1 link
-  - SubsP: 1 link
+  - LGI: 504 link
+  - Seicode: 29 link
+  - SubsP: 29 link
+  - NetRip: 12 link
+  - Türkçe Dublaj: 9 link
 
 Örnek Silinen Linkler:
   * https://hdvid.tv/embed-jqq80ndd91m1.html

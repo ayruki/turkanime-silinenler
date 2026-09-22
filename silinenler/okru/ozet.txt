@@ -1,0 +1,25 @@
+=================================================================
+OYNATICI: OK.ru / Odnoklassniki (okru)
+Toplam Silinen Link Sayısı: 101,747
+Temel Silinme Sebebi: Video Bulunamadı / Silinmiş (vp_video_stub)
+=================================================================
+
+Detaylı Tespit Edilen Sebepler:
+  - OK.ru Video Bulunamadı / Silinmiş (vp_video_stub): 97,626 adet
+  - HTTP 404 Video Bulunamadı: 4,112 adet
+  - HTTP 404 Video Bulunamadı (Önbellekten): 5 adet
+  - OK.ru Video Bulunamadı / Silinmiş (vp_video_stub) (Önbellekten): 4 adet
+
+En Çok Etkilenen Fansublar:
+  - Varsayılan: 24,338 link
+  - TAÇE: 6,659 link
+  - AMT: 4,180 link
+  - AniSekai: 3,896 link
+  - Akatsuki: 3,692 link
+
+Örnek Silinen Linkler:
+  * https://odnoklassniki.ru/videoembed/3236702259800
+  * https://odnoklassniki.ru/videoembed/86541994727
+  * https://odnoklassniki.ru/videoembed/86575024871
+  * https://odnoklassniki.ru/videoembed/86581316327
+  * https://odnoklassniki.ru/videoembed/86561262311

@@ -6,14 +6,13 @@ bu calisma nutalia tarafindan kurtarilan asil turkanime arsivine katki saglamak 
 asil arsiv ve izleme projesi: https://github.com/Nutaliaxd/TurkAnimeTV_Arsiv
 arsivi baslatan ve koruyan nutalia'ya tesekkur ederiz.
 
-ok.ru oynaticisina ait linkler temizlenme asamasindadir.
-
 tum linkler silinenler klasoru altinda oynatici bazinda ayrilmistir. her klasorun icinde ozet.txt ve ayrintili silinen_linkler.jsonl dosyasi mevcuttur.
 
 ## silinen link tablosu
 
 | oynatici | silinen link sayisi |
 |---|---|
+| okru | 101,747 |
 | mp4upload | 82,305 |
 | clone | 74,906 |
 | vudeo | 74,836 |
@@ -56,6 +55,7 @@ tum linkler silinenler klasoru altinda oynatici bazinda ayrilmistir. her klasoru
 | ztreamhub | 922 |
 | allvideo | 841 |
 | yadisk | 776 |
+| hdvid | 598 |
 | sbstream | 571 |
 | vidello | 553 |
 | pixeldrain | 543 |
@@ -67,7 +67,6 @@ tum linkler silinenler klasoru altinda oynatici bazinda ayrilmistir. her klasoru
 | bullstream | 236 |
 | videa | 215 |
 | streamp2p | 170 |
-| hdvid | 137 |
 | dsvplay | 58 |
 | mystream | 19 |
 | fembed | 8 |
@@ -75,4 +74,4 @@ tum linkler silinenler klasoru altinda oynatici bazinda ayrilmistir. her klasoru
 | bys | 4 |
 | streamzz | 2 |
 
-toplam silinen: 732,771
+toplam silinen: 834,979
